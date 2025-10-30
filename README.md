@@ -1,4 +1,4 @@
-# Silksong Tracker cs
+# Silksong Tracker cs2
 
 **[View the Silksong Tracker](https://th3r3dfox.github.io/silksong-tracker/).**
 
