@@ -1,4 +1,4 @@
-# Silksong Tracker 测试
+# Silksong Tracker cs
 
 **[View the Silksong Tracker](https://th3r3dfox.github.io/silksong-tracker/).**
 
